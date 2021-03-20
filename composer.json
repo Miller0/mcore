@@ -1,0 +1,14 @@
+{
+  "name": "miller/mcore",
+  "description": "mCore",
+  "require": {
+    "php": ">=8.0",
+    "ext-pdo": "*"
+  },
+  "require-dev": {
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {"mcore\\": ""}
+  }
+}
